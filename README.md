@@ -8,7 +8,7 @@ Nim: E41201015
 Golongan: B
 
 
-## Screenshoot
+## Screenshot
 
 <img src="Screenshot/home.PNG" width="150" height="200"> <br>
 <img src="Screenshot/contact.PNG" width="150" height="200"> <br>
