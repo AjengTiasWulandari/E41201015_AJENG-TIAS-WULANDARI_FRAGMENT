@@ -10,6 +10,6 @@ Golongan: B
 
 ## Screenshot
 
-<img src="Screenshot/home.PNG" width="150" height="200"> <br>
-<img src="Screenshot/contact.PNG" width="150" height="200"> <br>
-<img src="Screenshot/setting.PNG" width="150" height="200"> <br>
+![alt text](https://github.com/AjengTiasWulandari/E41201015_AJENG-TIAS-WULANDARI_FRAGMENT/blob/main/TUGAS%20FRAGMENT_AJENG%20TIAS%20WULANDARI/Screenshot/contact.PNG)
+![alt text](https://github.com/AjengTiasWulandari/E41201015_AJENG-TIAS-WULANDARI_FRAGMENT/blob/main/TUGAS%20FRAGMENT_AJENG%20TIAS%20WULANDARI/Screenshot/home.PNG)
+![alt text](https://github.com/AjengTiasWulandari/E41201015_AJENG-TIAS-WULANDARI_FRAGMENT/blob/main/TUGAS%20FRAGMENT_AJENG%20TIAS%20WULANDARI/Screenshot/setting.PNG)
